@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Ordinateur portable Dell XPS 13",
+    "quantity": 5,
+    "price": 1299.99,
+    "created_at": "2025-06-21T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Samsung Galaxy S21",
+    "quantity": 10,
+    "price": 799.99,
+    "created_at": "2025-06-20T15:30:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Clavier mécanique Logitech",
+    "quantity": 15,
+    "price": 99.99,
+    "created_at": "2025-06-19T12:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 15 Pro Max",
+    "quantity": 8,
+    "price": 1199.99,
+    "created_at": "2025-06-18T09:15:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Écran 4K LG UltraWide 34\"",
+    "quantity": 3,
+    "price": 649.99,
+    "created_at": "2025-06-17T14:20:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Souris gaming Razer DeathAdder",
+    "quantity": 25,
+    "price": 69.99,
+    "created_at": "2025-06-16T11:30:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Casque audio Sony WH-1000XM4",
+    "quantity": 12,
+    "price": 279.99,
+    "created_at": "2025-06-15T16:45:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Tablette iPad Pro 12.9\"",
+    "quantity": 6,
+    "price": 1099.99,
+    "created_at": "2025-06-14T08:30:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Imprimante HP LaserJet Pro",
+    "quantity": 4,
+    "price": 199.99,
+    "created_at": "2025-06-13T13:15:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Webcam Logitech C920",
+    "quantity": 18,
+    "price": 89.99,
+    "created_at": "2025-06-12T10:45:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Disque dur externe Seagate 2TB",
+    "quantity": 20,
+    "price": 79.99,
+    "created_at": "2025-06-11T15:20:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Enceinte Bluetooth JBL Flip 5",
+    "quantity": 14,
+    "price": 119.99,
+    "created_at": "2025-06-10T12:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Routeur Wi-Fi 6 ASUS AX6000",
+    "quantity": 7,
+    "price": 299.99,
+    "created_at": "2025-06-09T09:30:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Carte graphique NVIDIA RTX 4070",
+    "quantity": 2,
+    "price": 599.99,
+    "created_at": "2025-06-08T14:45:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Processeur AMD Ryzen 7 5800X",
+    "quantity": 9,
+    "price": 329.99,
+    "created_at": "2025-06-07T11:15:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Mémoire RAM Corsair 32GB DDR4",
+    "quantity": 11,
+    "price": 159.99,
+    "created_at": "2025-06-06T16:30:00Z"
+  },
+  {
+    "id": 17,
+    "name": "SSD Samsung 970 EVO 1TB",
+    "quantity": 16,
+    "price": 129.99,
+    "created_at": "2025-06-05T08:45:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Caméra Canon EOS R5",
+    "quantity": 1,
+    "price": 3899.99,
+    "created_at": "2025-06-04T13:30:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Objectif Canon RF 24-70mm f/2.8",
+    "quantity": 3,
+    "price": 2299.99,
+    "created_at": "2025-06-03T10:20:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Trépied Manfrotto Carbon Fiber",
+    "quantity": 8,
+    "price": 449.99,
+    "created_at": "2025-06-02T15:45:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Drone DJI Mini 3 Pro",
+    "quantity": 5,
+    "price": 759.99,
+    "created_at": "2025-06-01T12:15:00Z"
+  },
+  {
+    "id": 22,
+    "name": "Smartwatch Apple Watch Series 9",
+    "quantity": 13,
+    "price": 399.99,
+    "created_at": "2025-05-31T09:00:00Z"
+  },
+  {
+    "id": 23,
+    "name": "Chargeur sans fil Anker PowerWave",
+    "quantity": 22,
+    "price": 49.99,
+    "created_at": "2025-05-30T14:30:00Z"
+  },
+  {
+    "id": 24,
+    "name": "Batterie externe Anker 20000mAh",
+    "quantity": 17,
+    "price": 59.99,
+    "created_at": "2025-05-29T11:45:00Z"
+  },
+  {
+    "id": 25,
+    "name": "Câble USB-C vers Lightning",
+    "quantity": 30,
+    "price": 19.99,
+    "created_at": "2025-05-28T16:20:00Z"
+  },
+  {
+    "id": 26,
+    "name": "Hub USB-C 7 en 1",
+    "quantity": 19,
+    "price": 79.99,
+    "created_at": "2025-05-27T08:30:00Z"
+  },
+  {
+    "id": 27,
+    "name": "Micro-ondes Samsung 28L",
+    "quantity": 6,
+    "price": 189.99,
+    "created_at": "2025-05-26T13:45:00Z"
+  },
+  {
+    "id": 28,
+    "name": "Aspirateur robot iRobot Roomba",
+    "quantity": 4,
+    "price": 699.99,
+    "created_at": "2025-05-25T10:15:00Z"
+  },
+  {
+    "id": 29,
+    "name": "Cafetière Nespresso Vertuo",
+    "quantity": 7,
+    "price": 179.99,
+    "created_at": "2025-05-24T15:30:00Z"
+  },
+  {
+    "id": 30,
+    "name": "Friteuse à air Philips Airfryer",
+    "quantity": 9,
+    "price": 249.99,
+    "created_at": "2025-05-23T12:00:00Z"
+  },
+  {
+    "id": 31,
+    "name": "Télévision Samsung QLED 55\"",
+    "quantity": 2,
+    "price": 1199.99,
+    "created_at": "2025-05-22T09:45:00Z"
+  },
+  {
+    "id": 32,
+    "name": "Barre de son Sony HT-A7000",
+    "quantity": 5,
+    "price": 1299.99,
+    "created_at": "2025-05-21T14:20:00Z"
+  },
+  {
+    "id": 33,
+    "name": "Console PlayStation 5",
+    "quantity": 3,
+    "price": 499.99,
+    "created_at": "2025-05-20T11:30:00Z"
+  },
+  {
+    "id": 34,
+    "name": "Manette DualSense PS5",
+    "quantity": 12,
+    "price": 69.99,
+    "created_at": "2025-05-19T16:45:00Z"
+  },
+  {
+    "id": 35,
+    "name": "Jeu Spider-Man 2 PS5",
+    "quantity": 15,
+    "price": 69.99,
+    "created_at": "2025-05-18T08:15:00Z"
+  },
+  {
+    "id": 36,
+    "name": "Console Nintendo Switch OLED",
+    "quantity": 8,
+    "price": 349.99,
+    "created_at": "2025-05-17T13:30:00Z"
+  },
+  {
+    "id": 37,
+    "name": "Jeu The Legend of Zelda",
+    "quantity": 20,
+    "price": 59.99,
+    "created_at": "2025-05-16T10:45:00Z"
+  },
+  {
+    "id": 38,
+    "name": "Chaise gaming DXRacer",
+    "quantity": 4,
+    "price": 399.99,
+    "created_at": "2025-05-15T15:20:00Z"
+  },
+  {
+    "id": 39,
+    "name": "Bureau gaming IKEA Bekant",
+    "quantity": 6,
+    "price": 199.99,
+    "created_at": "2025-05-14T12:00:00Z"
+  },
+  {
+    "id": 40,
+    "name": "Lampe LED Philips Hue",
+    "quantity": 18,
+    "price": 49.99,
+    "created_at": "2025-05-13T09:30:00Z"
+  },
+  {
+    "id": 41,
+    "name": "Thermostat intelligent Nest",
+    "quantity": 11,
+    "price": 249.99,
+    "created_at": "2025-05-12T14:45:00Z"
+  },
+  {
+    "id": 42,
+    "name": "Caméra de sécurité Ring",
+    "quantity": 14,
+    "price": 179.99,
+    "created_at": "2025-05-11T11:15:00Z"
+  },
+  {
+    "id": 43,
+    "name": "Sonnette vidéo Ring",
+    "quantity": 10,
+    "price": 199.99,
+    "created_at": "2025-05-10T16:30:00Z"
+  },
+  {
+    "id": 44,
+    "name": "Serrure connectée August",
+    "quantity": 7,
+    "price": 279.99,
+    "created_at": "2025-05-09T08:45:00Z"
+  },
+  {
+    "id": 45,
+    "name": "Haut-parleur Amazon Echo Dot",
+    "quantity": 25,
+    "price": 49.99,
+    "created_at": "2025-05-08T13:30:00Z"
+  },
+  {
+    "id": 46,
+    "name": "Google Home Mini",
+    "quantity": 21,
+    "price": 39.99,
+    "created_at": "2025-05-07T10:20:00Z"
+  },
+  {
+    "id": 47,
+    "name": "Chromecast avec Google TV",
+    "quantity": 16,
+    "price": 49.99,
+    "created_at": "2025-05-06T15:45:00Z"
+  },
+  {
+    "id": 48,
+    "name": "Apple TV 4K",
+    "quantity": 9,
+    "price": 179.99,
+    "created_at": "2025-05-05T12:15:00Z"
+  },
+  {
+    "id": 49,
+    "name": "Roku Ultra",
+    "quantity": 13,
+    "price": 99.99,
+    "created_at": "2025-05-04T09:00:00Z"
+  },
+  {
+    "id": 50,
+    "name": "Projecteur Epson Home Cinema",
+    "quantity": 3,
+    "price": 899.99,
+    "created_at": "2025-05-03T14:30:00Z"
+  },
+  {
+    "id": 51,
+    "name": "Écran portable ASUS 15.6\"",
+    "quantity": 12,
+    "price": 249.99,
+    "created_at": "2025-05-02T11:45:00Z"
+  },
+  {
+    "id": 52,
+    "name": "Station d'accueil Dell",
+    "quantity": 8,
+    "price": 189.99,
+    "created_at": "2025-05-01T16:20:00Z"
+  },
+  {
+    "id": 53,
+    "name": "Adaptateur HDMI vers USB-C",
+    "quantity": 27,
+    "price": 29.99,
+    "created_at": "2025-04-30T08:30:00Z"
+  },
+  {
+    "id": 54,
+    "name": "Support d'écran ajustable",
+    "quantity": 15,
+    "price": 89.99,
+    "created_at": "2025-04-29T13:45:00Z"
+  },
+  {
+    "id": 55,
+    "name": "Tapis de souris gaming XXL",
+    "quantity": 23,
+    "price": 34.99,
+    "created_at": "2025-04-28T10:15:00Z"
+  },
+  {
+    "id": 56,
+    "name": "Repose-poignet ergonomique",
+    "quantity": 19,
+    "price": 24.99,
+    "created_at": "2025-04-27T15:30:00Z"
+  },
+  {
+    "id": 57,
+    "name": "Filtre de confidentialité écran",
+    "quantity": 11,
+    "price": 79.99,
+    "created_at": "2025-04-26T12:00:00Z"
+  },
+  {
+    "id": 58,
+    "name": "Nettoyant écran et lingettes",
+    "quantity": 35,
+    "price": 14.99,
+    "created_at": "2025-04-25T09:45:00Z"
+  },
+  {
+    "id": 59,
+    "name": "Organiseur de câbles",
+    "quantity": 40,
+    "price": 9.99,
+    "created_at": "2025-04-24T14:20:00Z"
+  },
+  {
+    "id": 60,
+    "name": "Multiprise avec protection surtension",
+    "quantity": 17,
+    "price": 44.99,
+    "created_at": "2025-04-23T11:30:00Z"
+  }
+]
